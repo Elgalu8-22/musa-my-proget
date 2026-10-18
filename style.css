@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #11b0b6;
+}
+.portfolio {
+    background-color: #8f095e;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
